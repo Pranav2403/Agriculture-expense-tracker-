@@ -28,6 +28,7 @@ The goal of this project is to simplify farm expense management by providing a d
 ## Deployment
 
 The application is deployed on Vercel and can be accessed online.
+Application link: https://v0-agricultural-expense-tracker.vercel.app/
 
 ## Future Enhancements
 
